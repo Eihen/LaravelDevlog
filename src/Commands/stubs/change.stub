@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use Eihen\Devlog\Models\DevlogChange as BaseChange;
+
+class DummyClass extends BaseChange
+{
+    //
+}

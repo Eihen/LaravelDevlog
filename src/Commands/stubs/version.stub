@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use Eihen\Devlog\Models\DevlogVersion as BaseVersion;
+
+class DummyClass extends BaseVersion
+{
+    //
+}
